@@ -71,3 +71,5 @@ enum MaritialStatus{
     case Single;
     case Widow;
 }
+
+var myStatus: MaritialStatus = .Married;
